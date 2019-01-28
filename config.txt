@@ -1,6 +1,6 @@
-owner=351955556443095041
-prefix=M
-game=Mplay
+owner=402563963184742410
+prefix=K
+game=Kplay
 stayinchannel=true
 songinstatus=false
-token=NTM5MzgzNjgxMTMxNzQxMTk1.DzBkKg.IcArI43jOChktlw3_KxgAtdg3jc
+token=NTM5NTIxNzQ1NjgyNTYzMDg5.DzDkfw.j4FIxHXSEeQJo_GCC5QcXhMsFFc
