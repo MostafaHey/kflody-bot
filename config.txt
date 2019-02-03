@@ -1,6 +1,6 @@
 owner=402563963184742410
-prefix=K
-game=Kplay
+prefix=S
+game=Splay
 stayinchannel=true
 songinstatus=false
 token=NTM5NTIxNzQ1NjgyNTYzMDg5.DzDkfw.j4FIxHXSEeQJo_GCC5QcXhMsFFc
